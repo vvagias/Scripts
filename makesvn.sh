@@ -22,5 +22,5 @@ if test $svnimp = "y";
 	svn co svn://$svnuser/Users/vv/DevTools/svn/$project
 	echo "All done master"
 else
-	echo "Then you're using the wrong fucking tool jack ;)"
+	echo "Then you're using the wrong tool jack ;)"
 fi
